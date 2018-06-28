@@ -1,0 +1,15 @@
+{
+  "name": "functional-programming-with-ramda",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Functional programming with Ramda",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.2.0",
+    "ramda": "^0.25.0"
+  }
+}
